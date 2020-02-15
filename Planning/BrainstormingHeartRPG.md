@@ -24,3 +24,5 @@ mystery need to have many pieces that need to be found and put together
 - need a magic system with very concrete and unbreakable rules
 - openish world but confined the city where the mystery takes place (maybe in a different place in the prologue)
 - maybe a base where everyone hangs out - maybe the inn where they meet?
+- bubbly and bright fantasy setting with dark undertones
+- Project Dead City storyline without the fighting - only the mystery and character interactions
