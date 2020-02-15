@@ -1,2 +1,2 @@
 # Brainstorming HeartRPG
-- something
+* something
