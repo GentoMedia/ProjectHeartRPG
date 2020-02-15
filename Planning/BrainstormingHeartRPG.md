@@ -1,5 +1,7 @@
 # Brainstorming HeartRPG
 
+
+## Ideas
 - mystery-solving rpg
 - story driven with 4 fun playable characters
 - puzzles for the
