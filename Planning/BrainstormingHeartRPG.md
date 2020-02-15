@@ -1,5 +1,4 @@
-j da# Brainstorming HeartRPG
-
+# Brainstorming HeartRPG
 
 ## Ideas
 - mystery-solving rpg
@@ -16,3 +15,5 @@ mystery need to have many pieces that need to be found and put together
 - a lot of distractors and red herrings
 - side quest mysteries to get to know the town and increase their reputation
 - once you choose your suspect and they are arrested, if it is correct you’ll get a real reward, if not someone else dies (or something other unfortunate)
+- prologue to introduce each character and their abilities in 4 mini stories
+- 
