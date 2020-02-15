@@ -16,4 +16,11 @@ mystery need to have many pieces that need to be found and put together
 - side quest mysteries to get to know the town and increase their reputation
 - once you choose your suspect and they are arrested, if it is correct you’ll get a real reward, if not someone else dies (or something other unfortunate)
 - prologue to introduce each character and their abilities in 4 mini stories
-- 
+- 3d or 2d
+    - 2d pixel is the easiest
+    - 3d is good practice and will establish a pipeline for the future
+    - 3d a lot more difficult and time consuming
+    - 2d has many constraints that could limit what can be made
+- need a magic system with very concrete and unbreakable rules
+- openish world but confined the city where the mystery takes place (maybe in a different place in the prologue)
+- maybe a base where everyone hangs out - maybe the inn where they meet?
