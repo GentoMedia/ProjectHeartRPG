@@ -26,3 +26,10 @@ mystery need to have many pieces that need to be found and put together
 - maybe a base where everyone hangs out - maybe the inn where they meet?
 - bubbly and bright fantasy setting with dark undertones
 - Project Dead City storyline without the fighting - only the mystery and character interactions
+- 3d pbr with toon shading for the environment
+- simple solid color 3d toon shading for anything moving
+- old school cartoon animation style but 3d
+- definite places needed for the first story
+    - orphanage
+    - inn
+    - 
