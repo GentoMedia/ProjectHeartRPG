@@ -29,7 +29,6 @@ mystery need to have many pieces that need to be found and put together
 - 3d pbr with toon shading for the environment
 - simple solid color 3d toon shading for anything moving
 - old school cartoon animation style but 3d
-- definite places needed for the first story
-    - orphanage
-    - inn
-    - 
+- first build can be a small section of town with three buildings and a small garden
+- spend the firsg build just getting the gameplay and aesthetics down
+-maybe a mini-mystery to solve in this confined space with only one of the characters - perhaps part of the prologue
