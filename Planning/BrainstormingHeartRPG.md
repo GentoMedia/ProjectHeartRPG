@@ -30,5 +30,16 @@ mystery need to have many pieces that need to be found and put together
 - simple solid color 3d toon shading for anything moving
 - old school cartoon animation style but 3d
 - first build can be a small section of town with three buildings and a small garden
-- spend the firsg build just getting the gameplay and aesthetics down
--maybe a mini-mystery to solve in this confined space with only one of the characters - perhaps part of the prologue
+- spend the first build just getting the gameplay and aesthetics down
+- maybe a mini-mystery to solve in this confined space with only one of the characters - perhaps part of the prologue
+- 4-part prologue
+    - getting out of prison
+    - stealthy thief
+    - gaining info from people through political intrigue
+    - using senses to track someone or something
+- each part of the prologue gives clues to each character’s story, sets up the meeting with the mysterious letter, sets up each character’s inner conflict, and acts as the tutorial for that character’s mechanics
+
+
+
+
+
