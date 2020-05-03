@@ -41,4 +41,23 @@
 	- gameplay must be awesome and shine bright with any visuals
 	- textures must be remixed and altered to make a good visual theme
 	- visual effects must be gorgeous
-	- 
+- Solving a mystery
+	- Define the puzzle
+	- Write everything down
+	- Concrete Timeline
+	- Follow every lead
+	- Everthing is evidence
+- Mystery solving tips
+	- Eye for detail
+	- a+b=c only if a, b, and c are true and possible
+	- map events to put puzzle together
+	- know the pieces
+		- people - suspects and witnesses and bystanders
+		- times and events
+		- motives
+		- any other details
+	- Differents scenarios - narrowing down using evidence and logic
+- Resoning a mystery
+	- Define the puzzle
+
+	
