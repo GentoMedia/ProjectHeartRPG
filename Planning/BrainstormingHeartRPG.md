@@ -1,15 +1,14 @@
 # Brainstorming HeartRPG
 
-## Ideas
+### Ideas
 - mystery-solving rpg
 - story driven with 4 fun playable characters
-- puzzles for the
-mystery need to have many pieces that need to be found and put together
-- each character has a different tool set to help gather tools
-    - one who is stealthy and can move relatively unnoticed
-    - one with special senses who can hear and smell what the others can’t
-    - one with the most magical abilities who can manipulate the world to find new clues and connection
-    - one who is charasmatic and can get close to people to gain information and new clues
+- puzzles for the mystery needs to have many pieces that need to be found and put together
+- each character has a different tool set to help gather clues
+	- one who is stealthy and can move relatively unnoticed
+	- one with special senses who can hear and smell what the others can’t
+	- one with the most magical abilities who can manipulate the world to find new clues and connection
+	- one who is charasmatic and can get close to people to gain information and new clues
 - magical mysteries in a fantasy world
 - different events can be triggered by location, characters, and the clues that have been found
 - a lot of distractors and red herrings
@@ -17,10 +16,10 @@ mystery need to have many pieces that need to be found and put together
 - once you choose your suspect and they are arrested, if it is correct you’ll get a real reward, if not someone else dies (or something other unfortunate)
 - prologue to introduce each character and their abilities in 4 mini stories
 - 3d or 2d
-    - 2d pixel is the easiest
-    - 3d is good practice and will establish a pipeline for the future
-    - 3d a lot more difficult and time consuming
-    - 2d has many constraints that could limit what can be made
+	- 2d pixel is the easiest
+	- 3d is good practice and will establish a pipeline for the future
+	- 3d a lot more difficult and time consuming
+	- 2d has many constraints that could limit what can be made
 - need a magic system with very concrete and unbreakable rules
 - openish world but confined the city where the mystery takes place (maybe in a different place in the prologue)
 - maybe a base where everyone hangs out - maybe the inn where they meet?
@@ -33,13 +32,13 @@ mystery need to have many pieces that need to be found and put together
 - spend the first build just getting the gameplay and aesthetics down
 - maybe a mini-mystery to solve in this confined space with only one of the characters - perhaps part of the prologue
 - 4-part prologue
-    - getting out of prison
-    - stealthy thief
-    - gaining info from people through political intrigue
-    - using senses to track someone or something
+	- getting out of prison
+	- stealthy thief
+	- gaining info from people through political intrigue
+	- using senses to track someone or something
 - each part of the prologue gives clues to each character’s story, sets up the meeting with the mysterious letter, sets up each character’s inner conflict, and acts as the tutorial for that character’s mechanics
-
-
-
-
-
+- only using creative commons or open art. I will be doing very little so 3D or 2D are both ok. Caveats:
+	- gameplay must be awesome and shine bright with any visuals
+	- textures must be remixed and altered to make a good visual theme
+	- visual effects must be gorgeous
+	- 
