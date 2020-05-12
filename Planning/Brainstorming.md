@@ -1,4 +1,4 @@
-# Brainstorming HeartRPG
+# Brainstorming
 
 ### Ideas
 - mystery-solving rpg

@@ -1,4 +1,4 @@
-# HeartRPG Gameplay
+# Gameplay
 
 ### Pillars
 
