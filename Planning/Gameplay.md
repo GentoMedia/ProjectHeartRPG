@@ -3,11 +3,11 @@
 ### Pillars
 
 - Non-combat mystery RPG
-- Character-driven story revovling around the collaboration of four distinct detectives
+- Character-driven story revolving around the collaboration of four distinct detectives
 - Dark themes and events in a bright happy atmosphere
 
 
-### Game Loop
+### Gameloop
 
 - Revelation - Event that incites the next phase of a mystery
 	- first revelation is an inciting incident of new mystery
@@ -27,4 +27,22 @@
 
 ### Features
 
-- 
+#### Character
+
+- Movement
+- Collision
+
+#### Player
+
+- Character
+- Controls
+- Interactions
+
+#### NPC
+
+- Dialogue
+
+#### Journal Map
+
+
+#### 

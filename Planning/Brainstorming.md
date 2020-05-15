@@ -3,7 +3,7 @@
 ### Ideas
 - mystery-solving rpg
 - story driven with 4 fun playable characters
-- puzzles for the mystery needs to have many pieces that need to be found and put together
+- puzzles for the mystery needs to have many pieces that need to be found and put togethers
 - each character has a different tool set to help gather clues
 	- one who is stealthy and can move relatively unnoticed
 	- one with special senses who can hear and smell what the others can’t
