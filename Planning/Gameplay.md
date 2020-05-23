@@ -2,8 +2,8 @@
 
 ### Pillars
 
-- Non-combat mystery RPG
-- Character-driven story revolving around the collaboration of four distinct detectives
+- Non-combat first-person mystery
+- Character- and Player-driven story revolving around 
 - Dark themes and events in a bright happy atmosphere
 
 
@@ -13,7 +13,7 @@
 	- first revelation is an inciting incident of new mystery
 	- all other are from the players revelations as they solve the case
 - Observation - gather information from the environment, testimony, and reports
-- Make connections - Putting the puzzle together to for the picture
+- Make connections - Putting the puzzle together to form the picture
 - Revelation - Connections made by the player pushing them to the next cycle
 	- needs to be impactful
 
@@ -40,6 +40,7 @@
 
 #### NPC
 
+- Character
 - Dialogue
 
 #### Journal Map
